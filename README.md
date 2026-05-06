@@ -34,7 +34,6 @@ Examples include:
 * inverse partial Fourier transforms,
 * image reflectors,
 * differential magnifiers,
-* and related structured optical systems.
 
 ---
 
@@ -101,22 +100,6 @@ applications/
     ImageRefl.m (Image reflector)
     DiffMag.m (Differential magnifier)
 ```
-
----
-
-# Core Philosophy
-
-The repository is intentionally organized around a small number of general symbolic identities rather than many isolated examples.
-
-The goal is to demonstrate that:
-
-* several optical transforms,
-* structured imaging systems,
-* and symplectic transfer matrices
-
-can be generated systematically from a compact set of constructive decompositions.
-
-The applications included in the repository are therefore presented as parameterized realizations of the fundamental identities.
 
 ---
 
